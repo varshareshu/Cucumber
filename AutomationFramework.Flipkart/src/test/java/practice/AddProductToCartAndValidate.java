@@ -15,7 +15,7 @@ public class AddProductToCartAndValidate {
 
 	public static void main(String[] args, Object productToBeAdded) {
 		
-		int x=10;
+		int x=100;
 		int vv=0;   
 	 int ymmm=0;
 		int yy=0;
